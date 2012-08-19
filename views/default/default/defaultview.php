@@ -1,0 +1,3 @@
+<h1>About</h1>
+<p>Calf is a light weight, Model-View-Controller based framework written in PHP. The main goal of the project is to promote code reuse within websites I create. Following the MVC pattern, the framework accommodates for both desktop and mobile devices (such as the IPhone or Android based devices). The name 'Calf' is short for Calvin's Framework. </p>
+<p>This is the first version of Calf, made publically available on the 20th of July 2010. Calf is Free software and is licensed under the GPL v2. Please see the license page for more information. No warranty is provided with this software. </p>
